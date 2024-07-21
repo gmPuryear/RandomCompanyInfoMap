@@ -1,0 +1,1 @@
+{"mappings":"AAAA,iCAAiC;AAEjC,MAAM,OAAO,IAAI;AAEjB,QAAQ,GAAG,CAAC","sources":["maps/src/index.ts"],"sourcesContent":["// import { User } from \"./User\";\n\nconst user = new User();\n\nconsole.log(user);\n"],"names":[],"version":3,"file":"index.2ecb132b.js.map","sourceRoot":"/__parcel_source_root/"}
